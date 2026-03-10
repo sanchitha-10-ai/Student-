@@ -22,6 +22,7 @@ class Program
         var topStudentsLambda = service.FilterStudents(s => s.Marks > 80);
 
         Console.WriteLine("Top Students (Lambda Expression):");
+        Console.WriteLine("hello");
 
         foreach (var s in topStudentsLambda)
         {
