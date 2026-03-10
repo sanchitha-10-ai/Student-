@@ -155,3 +155,4 @@ C:\Users\Saashish\CSharpProjects\StudentProject\obj\Debug\net10.0\StudentProject
 C:\Users\Saashish\CSharpProjects\StudentProject\obj\Debug\net10.0\ref\StudentProject.dll
 C:\Users\Saashish\CSharpProjects\StudentProject\bin\Debug\net10.0\Npgsql.dll
 C:\Users\Saashish\CSharpProjects\StudentProject\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Saashish\CSharpProjects\StudentProject\obj\Debug\net10.0\StudentProject.sourcelink.json
