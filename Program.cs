@@ -6,6 +6,10 @@ class Program
     {
         StudentService service = new StudentService();
 
+        Console.WriteLine("Testing branches and changes");
+         
+        /*
+
         // 1️⃣ Using delegate method
         var topStudents = service.FilterStudents(IsTopStudent);
 
@@ -17,6 +21,8 @@ class Program
         }
 
         Console.WriteLine();
+
+        */
 
         // 2️⃣ Using lambda expression instead of method
         var topStudentsLambda = service.FilterStudents(s => s.Marks > 80);
